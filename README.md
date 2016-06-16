@@ -80,3 +80,13 @@ Now, may be you are thinking that, from where **__proto__/prototype** property c
 All the **JavaScript** **functions** have a property named **prototype**, while all the **JavaScript** **objects** have property named **__proto__**. Both the property( **prototype** in **functions** and **__proto__** in **objects**) are set by **JavaScript** itself. And whatever we are reading on any **JavaScript** object, first **JavaScript** will search into that object only, if it do not fine one, then it will search into **__proto__** object. So whatever we inject into **__proto__** object, will be available in the future.
 
 This is how **JavaScript** is a **Dynamic** language, we tweaked a well defined **JavaScript** object according to our own sweet wish!
+
+Follow Me
+---
+[Github](https://github.com/NamitaMalik)
+
+[Twitter](https://twitter.com/namita13_04)
+
+[LinkedIn](https://in.linkedin.com/in/namita-malik-a7885b23)
+
+[More Blogs By Me](https://namitamalik.github.io/)
