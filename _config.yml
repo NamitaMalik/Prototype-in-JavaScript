@@ -1,0 +1,8 @@
+title: Prototype in Javascript
+description: This blog discusses about Prototype in Javascript.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
